@@ -4,6 +4,6 @@
 
 .env
 
-.vscode
+.vs_code
 .DS_Store
 .idea
